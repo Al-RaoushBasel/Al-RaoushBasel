@@ -1,13 +1,16 @@
 # 👋 Hello, I'm Basel Al Raoush!
 I'm a software engineering student passionate about learning new technologies, building meaningful projects, and solving complex problems.
 
-![Welcome GIF](https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif)
+![Welcome GIF](https://media.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif)
 
 
 ## 🔧 Technologies & Tools
 - Programming Languages: Python, Java, C++, SQL
 - Databases: MySQL, Oracle, MSSQL
 - Development: Agile, Waterfall, Git
+
+- ![Tech GIF](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
+
 
 ## 🔧 Technologies & Tools
 
