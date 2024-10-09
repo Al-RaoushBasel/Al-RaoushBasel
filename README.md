@@ -1,16 +1,15 @@
 # 👋 Hello, I'm Basel Al Raoush!
-I'm a software engineering student passionate about learning new technologies, building meaningful projects, and solving complex problems.
 
 ![Welcome GIF](https://media.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif)
+
+I'm a software engineering student passionate about learning new technologies, building meaningful projects, and solving complex problems.
+
 
 
 ## 🔧 Technologies & Tools
 - Programming Languages: Python, Java, C++, SQL
 - Databases: MySQL, Oracle, MSSQL
 - Development: Agile, Waterfall, Git
-
-- ![Tech GIF](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
-
 
 ## 🔧 Technologies & Tools
 
@@ -53,6 +52,8 @@ I'm a software engineering student passionate about learning new technologies, b
 ### Build Tools
 ![Maven](https://img.shields.io/badge/-Maven-333?style=flat&logo=apache-maven)
 ![Gradle](https://img.shields.io/badge/-Gradle-333?style=flat&logo=gradle)
+
+##- ![Tech GIF](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 
 ## 📊 GitHub Stats
