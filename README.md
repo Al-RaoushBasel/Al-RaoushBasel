@@ -53,7 +53,7 @@ I'm a software engineering student passionate about learning new technologies, b
 ![Maven](https://img.shields.io/badge/-Maven-333?style=flat&logo=apache-maven)
 ![Gradle](https://img.shields.io/badge/-Gradle-333?style=flat&logo=gradle)
 
-##- ![Tech GIF](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
+![Tech GIF](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 
 ## 📊 GitHub Stats
