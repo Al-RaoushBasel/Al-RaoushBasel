@@ -25,11 +25,6 @@ I'm a software engineering student passionate about learning new technologies, b
 ![Scrum](https://img.shields.io/badge/-Scrum-333?style=flat&logo=scrumalliance)
 ![Kanban](https://img.shields.io/badge/-Kanban-333?style=flat&logo=kanban)
 
-### Software Techniques
-![Multithreading](https://img.shields.io/badge/-Multithreading-333?style=flat&logo=linux)
-![Concurrency](https://img.shields.io/badge/-Concurrency-333?style=flat&logo=java)
-![Parallelism](https://img.shields.io/badge/-Parallelism-333?style=flat&logo=parallel)
-
 ### Database Systems
 ![MSSQL](https://img.shields.io/badge/-MSSQL-333?style=flat&logo=microsoft-sql-server)
 ![Oracle](https://img.shields.io/badge/-Oracle-333?style=flat&logo=oracle)
@@ -41,13 +36,6 @@ I'm a software engineering student passionate about learning new technologies, b
 
 ### Static Analysis Tools
 ![SonarLint](https://img.shields.io/badge/-SonarLint-333?style=flat&logo=sonarlint)
-
-### Cybersecurity Tools
-![Wireshark](https://img.shields.io/badge/-Wireshark-333?style=flat&logo=wireshark)
-
-### Containers & Virtualization
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-333?style=flat&logo=virtualbox)
-![VMWare](https://img.shields.io/badge/-VMWare-333?style=flat&logo=vmware)
 
 ### Build Tools
 ![Maven](https://img.shields.io/badge/-Maven-333?style=flat&logo=apache-maven)
