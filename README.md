@@ -11,8 +11,6 @@ I'm a software engineering student passionate about learning new technologies, b
 - Databases: MySQL, Oracle, MSSQL
 - Development: Agile, Waterfall, Git
 
-## 🔧 Technologies & Tools
-
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
