@@ -53,13 +53,15 @@ I'm a software engineering student passionate about learning new technologies, b
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-RaoushBasel&show_icons=true&theme=radical)
 
 
-## 📫 Contact Me
-- Email: basel.alraoush15@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/basel-al-raoush-72b002291)
+## 📬 Contact Me
 
-- ![](https://visitor-badge.glitch.me/badge?page_id=Al-RaoushBasel.Al-RaoushBasel)
+- 📧 **Email**: [basel.alraoush15@gmail.com](mailto:basel.alraoush15@gmail.com)
+- 💼 **[LinkedIn](https://www.linkedin.com/in/basel-al-raoush-72b002291)**
+- 🌐 **[GitHub](https://github.com/Al-RaoushBasel)**
 
-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+---
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 
 
