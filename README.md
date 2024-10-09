@@ -61,7 +61,7 @@ I'm a software engineering student passionate about learning new technologies, b
 
 ---
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+
 
 
 
