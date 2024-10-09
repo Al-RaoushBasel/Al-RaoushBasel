@@ -62,10 +62,6 @@ I'm a software engineering student passionate about learning new technologies, b
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-RaoushBasel&layout=compact&theme=radical)
 
-## 👀 Profile Visitors
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Al-RaoushBasel)
-
-
 ## 📬 Contact Me
 
 - 📧 **Email**: [basel.alraoush15@gmail.com](mailto:basel.alraoush15@gmail.com)
