@@ -1,6 +1,9 @@
 # 👋 Hello, I'm Basel Al Raoush!
 I'm a software engineering student passionate about learning new technologies, building meaningful projects, and solving complex problems.
 
+![Welcome GIF](https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif)
+
+
 ## 🔧 Technologies & Tools
 - Programming Languages: Python, Java, C++, SQL
 - Databases: MySQL, Oracle, MSSQL
@@ -51,6 +54,12 @@ I'm a software engineering student passionate about learning new technologies, b
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-RaoushBasel&show_icons=true&theme=radical)
+
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-RaoushBasel&layout=compact&theme=radical)
+
+## 👀 Profile Visitors
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Al-RaoushBasel)
 
 
 ## 📬 Contact Me
