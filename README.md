@@ -5,6 +5,17 @@
 I'm a software engineering student passionate about learning new technologies, building meaningful projects, and solving complex problems.
 
 
+### 🚧 Current Projects
+- **Expense Tracker App** (Android):
+  - An Android app to help users track their daily expenses, set budgets, and get financial insights.
+  - Features include:
+    - Adding and categorizing expenses.
+    - Tracking spending over time with visual insights.
+    - Push notifications to remind users of their budget limits.
+  - **Tech Stack**: Android Studio, Kotlin, Room, Notifications, SharedPreferences.
+  - **Progress**: Designing the UI and implementing core functionalities.
+
+
 
 ## 🔧 Technologies & Tools
 - Programming Languages: Python, Java, C++, SQL
