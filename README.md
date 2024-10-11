@@ -53,6 +53,9 @@ I'm a software engineering student passionate about learning new technologies, b
 ![Tech GIF](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-RaoushBasel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ## 📬 Contact Me
 
 - 📧 **Email**: [basel.alraoush15@gmail.com](mailto:basel.alraoush15@gmail.com)
