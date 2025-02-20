@@ -1,3 +1,4 @@
+<!-- Banner / Hero Image -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hey%20There!&fontSize=60&fontAlignY=35" />
 </p>
@@ -6,17 +7,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif" width="200" height="200"/>
 
-<!-- New Name Placement -->
-<h2 align="center">👋 I'm Basel Al Raoush</h2>
-
-
+  <!-- New Name Placement -->
+  <h2 align="center">👋 I'm Basel Al Raoush</h2>
 
   <p align="center">
-  A <strong>software engineering student</strong> passionate about learning new technologies, 
-  building meaningful projects, and solving complex problems.
-</p>
-
-
+    A <strong>software engineering student</strong> passionate about learning new technologies, 
+    building meaningful projects, and solving complex problems.
+  </p>
 
   <!-- Social Badges -->
   <p>
@@ -29,8 +26,7 @@
     <a href="https://github.com/Al-RaoushBasel">
       <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github" alt="GitHub">
     </a>
-    <!-- Add your personal portfolio link here! -->
-    <a href="[https://your-portfolio-link.com](https://al-raoushbasel.github.io/portfolio/)" target="_blank">
+    <a href="https://al-raoushbasel.github.io/portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/-Portfolio-FF4088?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
@@ -44,7 +40,7 @@
 - **Description**: Full-stack web app using MobileNetV2 CNN for digit recognition (~95% accuracy).
 - **Key Features**: Web-based digit input, real-time prediction, user-friendly interface.
 - **Tech Stack**: Flask, TensorFlow/Keras, HTML/CSS/JS
-- **Link**: [View Digit Recognition AI](https://github.com/YourDigitAIRepoLink](https://al-raoushbasel.github.io/digit-recognition-frontend/))
+- **Link**: [View Digit Recognition AI](https://al-raoushbasel.github.io/digit-recognition-frontend/)
 
 ### 2. Fake News Detector
 - **Description**: AI model for detecting fake news using NLP on a 20k-article dataset (Kaggle).
@@ -141,7 +137,7 @@
 ## 📬 Connect With Me
 
 - **Email**: [basel.alraoush15@gmail.com](mailto:basel.alraoush15@gmail.com)
-- **LinkedIn**: [Basel Al-Raoush ](https://www.linkedin.com/in/basel-al-raoush/)
+- **LinkedIn**: [Basel Al-Raoush](https://www.linkedin.com/in/basel-al-raoush/)
 - **GitHub**: [Al-RaoushBasel](https://github.com/Al-RaoushBasel)
 - **Portfolio**: [Portfolio](https://al-raoushbasel.github.io/portfolio/)
 
