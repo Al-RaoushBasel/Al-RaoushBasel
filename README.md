@@ -1,17 +1,22 @@
-<!-- Banner / Hero Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hey%20There!&fontSize=60&fontAlignY=35&desc=I'm%20Basel%20Al%20Raoush&descAlignY=51&descAlign=62" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hey%20There!&fontSize=60&fontAlignY=35" />
 </p>
 
 <!-- Intro & GIF -->
 <div align="center">
   <img src="https://media.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif" width="200" height="200"/>
 
-  <h2>I'm Basel Al Raoush</h2>
-  <p>
-    A <strong>software engineering student</strong> passionate about learning new technologies, 
-    building meaningful projects, and solving complex problems.
-  </p>
+<!-- New Name Placement -->
+<h2 align="center">👋 I'm Basel Al Raoush</h2>
+
+
+
+  <p align="center">
+  A <strong>software engineering student</strong> passionate about learning new technologies, 
+  building meaningful projects, and solving complex problems.
+</p>
+
+
 
   <!-- Social Badges -->
   <p>
