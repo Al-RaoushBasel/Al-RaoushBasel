@@ -18,67 +18,90 @@ This repository reflects my journey of continuous learning and application of mo
 
 ---
 
-## 🚀 Selected Projects  
-
-<div align="center">
+## 🚀 Selected Projects
 
 <table>
 <tr>
-<td width="50%" align="center">
-  
-### Digit Recognition AI  
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="80"/>  
-Web-based digit recognition using CNN (95% accuracy).  
-**Stack:** Flask · TensorFlow · JavaScript  
-<br/>
-<a href="https://al-raoushbasel.github.io/digit-recognition-frontend/" target="_blank">🌐 Live Demo</a>
+<td width="50%" valign="top">
+  <div align="center">
 
+  <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="72" alt="AI"/>
+
+  <h3>Digit Recognition AI</h3>
+
+  <p><b>Web app</b> for handwritten digit recognition using a CNN (~95% accuracy).</p>
+  <p><b>Tech:</b> Flask · TensorFlow · JavaScript</p>
+
+  <p>
+    <a href="https://al-raoushbasel.github.io/digit-recognition-frontend/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-2A5298?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
+    </a>
+  </p>
+
+  </div>
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
+  <div align="center">
 
-### Fake News Detector  
-<img src="https://img.icons8.com/fluency/96/news.png" width="80"/>  
-NLP model for classifying news credibility.  
-**Stack:** Python · TF-IDF · BERT  
-<br/>
-<a href="https://github.com/Al-RaoushBasel/Fake-News-Detector" target="_blank">📂 Repository</a>
+  <img src="https://img.icons8.com/fluency/96/news.png" width="72" alt="News"/>
 
+  <h3>Fake News Detector</h3>
+
+  <p>ML pipeline for classifying <b>fake vs. real</b> news using NLP.</p>
+  <p><b>Tech:</b> Python · TF-IDF · BERT</p>
+
+  <p>
+    <a href="https://github.com/Al-RaoushBasel/Fake-News-Detector" target="_blank">
+      <img src="https://img.shields.io/badge/Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
+    </a>
+  </p>
+
+  </div>
 </td>
 </tr>
+
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
+  <div align="center">
 
-### Sentiment Analysis App  
-<img src="https://img.icons8.com/fluency/96/happy.png" width="80"/>  
-Interactive sentiment analysis with real-time results.  
-**Stack:** Streamlit · Hugging Face Transformers  
-<br/>
-<a href="https://github.com/Al-RaoushBasel/Sentiment-Analysis" target="_blank">📂 Repository</a>
+  <img src="https://img.icons8.com/fluency/96/happy.png" width="72" alt="Sentiment"/>
 
+  <h3>Sentiment Analysis App</h3>
+
+  <p>Interactive app for <b>real-time</b> sentiment classification of text/tweets.</p>
+  <p><b>Tech:</b> Streamlit · Hugging Face Transformers</p>
+
+  <p>
+    <a href="https://github.com/Al-RaoushBasel/Sentiment-Analysis" target="_blank">
+      <img src="https://img.shields.io/badge/Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
+    </a>
+  </p>
+
+  </div>
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
+  <div align="center">
 
-### Budget Tracker (Android)  
-<img src="https://img.icons8.com/fluency/96/money.png" width="80"/>  
-Mobile app for expense management and reporting.  
-**Stack:** Kotlin · RoomDB · Firebase  
-<br/>
-<a href="https://github.com/Al-RaoushBasel/MyBudgetTracker" target="_blank">📂 Repository</a>
+  <img src="https://img.icons8.com/fluency/96/money.png" width="72" alt="Budget"/>
 
+  <h3>Budget Tracker (Android)</h3>
+
+  <p>Android app to <b>track expenses</b> with categories, summaries, and reports.</p>
+  <p><b>Tech:</b> Kotlin · RoomDB · Firebase</p>
+
+  <p>
+    <a href="https://github.com/Al-RaoushBasel/MyBudgetTracker" target="_blank">
+      <img src="https://img.shields.io/badge/Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
+    </a>
+  </p>
+
+  </div>
 </td>
 </tr>
 </table>
 
-</div>
 
-<details>
-<summary>📂 Additional Work</summary>
-- **Pipes in the Desert (Java Game)**  
-- **Expense Analysis Dashboard (Python)**  
-- **Movie Recommendation System (Java)**  
-- **OpenMetroMaps Contribution (Java)**  
-- **Personal Portfolio Website**  
-</details>
+
 
 
 ---
