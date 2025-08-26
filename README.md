@@ -1,148 +1,137 @@
-<!-- Banner / Hero Image -->
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hey%20There!&fontSize=60&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Basel%20Al-Raoush&fontColor=fff&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Software%20Engineering%20Student%20•%20AI%20%7C%20Web%20%7C%20Mobile&descAlignY=65"/>
 </p>
 
-<!-- Intro & GIF -->
+<!-- Typing Animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif" width="200" height="200"/>
-
-  <!-- New Name Placement -->
-  <h2 align="center">👋 I'm Basel Al Raoush</h2>
-
-  <p align="center">
-    A <strong>software engineering student</strong> passionate about learning new technologies, 
-    building meaningful projects, and solving complex problems.
-  </p>
-
-  <!-- Social Badges -->
-  <p>
-    <a href="mailto:basel.alraoush15@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/basel-al-raoush/">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/Al-RaoushBasel">
-      <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github" alt="GitHub">
-    </a>
-    <a href="https://al-raoushbasel.github.io/portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-FF4088?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/>
-    </a>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub;Software+Engineering+Student+%40+BME;Exploring+AI%2C+Web%2C+and+Mobile;Turning+ideas+into+practical+solutions" />
 </div>
 
 ---
 
-## 🎉 Featured Projects
+## 🎨 About Me  
 
-### 1. Digit Recognition AI
-- **Description**: Full-stack web app using MobileNetV2 CNN for digit recognition (~95% accuracy).
-- **Key Features**: Web-based digit input, real-time prediction, user-friendly interface.
-- **Tech Stack**: Flask, TensorFlow/Keras, HTML/CSS/JS
-- **Link**: [View Digit Recognition AI](https://al-raoushbasel.github.io/digit-recognition-frontend/)
-
-### 2. Fake News Detector
-- **Description**: AI model for detecting fake news using NLP on a 20k-article dataset (Kaggle).
-- **Key Features**: TF-IDF Logistic Regression baseline, BERT for improved accuracy, data preprocessing pipeline.
-- **Tech Stack**: Python, Scikit-learn, BERT, NLP
-- **Link**: [GitHub Repo](https://github.com/Al-RaoushBasel/Fake-News-Detector) 
-
-### 3. Sentiment Analysis Web App
-- **Description**: Real-time sentiment analysis of text/tweets using Streamlit and Hugging Face Transformers.
-- **Key Features**: Interactive web interface, real-time predictions, deployment-ready.
-- **Tech Stack**: Python, Streamlit, Hugging Face Transformers
-- **Link**: [GitHub Repo](https://github.com/Al-RaoushBasel/Sentiment-Analysis) 
-
-### 4. Budget Tracker App
-- **Description**: Mobile app for tracking expenses with Room DB, RecyclerView-based analysis, and modern UI design.
-- **Key Features**: Expense categorization, real-time summaries, CI/CD pipeline.
-- **Tech Stack**: Android (Kotlin), Room, Firebase (optional), CI/CD
-- **Link**: [GitHub Repo](https://github.com/Al-RaoushBasel/MyBudgetTracker)
-
-### Other Projects
-- **Pipes in the Desert Game (Java)**
-- **Expense Analysis Dashboard (Python)**
-- **Movie Recommendation System (Java)**
-- **OpenMetroMaps Contribution with BKK (Java)**
-- **Personal Portfolio Website (Web Development)**
+I am a **Software Engineering student at BME** with a strong interest in **AI, web applications, and mobile development**.  
+My approach is **project-driven**: I enjoy designing, building, and deploying solutions that combine clean user experience with robust engineering.  
+This repository reflects my journey of continuous learning and application of modern technologies.  
 
 ---
 
-## ⚙️ Tech Toolbox
+## 🚀 Selected Projects  
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=MySQL)
-
-### Methodologies & Design
-![Agile](https://img.shields.io/badge/-Agile-333?style=flat&logo=agile)
-![Scrum](https://img.shields.io/badge/-Scrum-333?style=flat&logo=scrumalliance)
-![Kanban](https://img.shields.io/badge/-Kanban-333?style=flat&logo=kanban)
-![Object-Oriented Design](https://img.shields.io/badge/-OOP-333?style=flat&logo=design)
-![SOLID Principles](https://img.shields.io/badge/-SOLID-333?style=flat&logo=design)
-
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![Oracle](https://img.shields.io/badge/-Oracle-333?style=flat&logo=oracle)
-![MSSQL](https://img.shields.io/badge/-MSSQL-333?style=flat&logo=microsoft-sql-server)
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![Maven](https://img.shields.io/badge/-Maven-333?style=flat&logo=apache-maven)
-![Gradle](https://img.shields.io/badge/-Gradle-333?style=flat&logo=gradle)
-![SonarLint](https://img.shields.io/badge/-SonarLint-333?style=flat&logo=sonarlint)
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
-</p>
-
----
-
-## 📊 GitHub Stats
 <div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-RaoushBasel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-       alt="Top Languages" width="400" />
-  
-  <!-- GitHub Stats Card (Optional) -->
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Al-RaoushBasel&show_icons=true&theme=dark&hide_border=false" 
-       alt="Basel's GitHub stats" width="400" />
+### Digit Recognition AI  
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="80"/>  
+Web-based digit recognition using CNN (95% accuracy).  
+**Stack:** Flask · TensorFlow · JavaScript  
+<br/>
+<a href="https://al-raoushbasel.github.io/digit-recognition-frontend/" target="_blank">🌐 Live Demo</a>
+
+</td>
+<td width="50%" align="center">
+
+### Fake News Detector  
+<img src="https://img.icons8.com/fluency/96/news.png" width="80"/>  
+NLP model for classifying news credibility.  
+**Stack:** Python · TF-IDF · BERT  
+<br/>
+<a href="https://github.com/Al-RaoushBasel/Fake-News-Detector" target="_blank">📂 Repository</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### Sentiment Analysis App  
+<img src="https://img.icons8.com/fluency/96/happy.png" width="80"/>  
+Interactive sentiment analysis with real-time results.  
+**Stack:** Streamlit · Hugging Face Transformers  
+<br/>
+<a href="https://github.com/Al-RaoushBasel/Sentiment-Analysis" target="_blank">📂 Repository</a>
+
+</td>
+<td width="50%" align="center">
+
+### Budget Tracker (Android)  
+<img src="https://img.icons8.com/fluency/96/money.png" width="80"/>  
+Mobile app for expense management and reporting.  
+**Stack:** Kotlin · RoomDB · Firebase  
+<br/>
+<a href="https://github.com/Al-RaoushBasel/MyBudgetTracker" target="_blank">📂 Repository</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<details>
+<summary>📂 Additional Work</summary>
+- **Pipes in the Desert (Java Game)**  
+- **Expense Analysis Dashboard (Python)**  
+- **Movie Recommendation System (Java)**  
+- **OpenMetroMaps Contribution (Java)**  
+- **Personal Portfolio Website**  
+</details>
+
+
+---
+
+## 🧰 Skills  
+
+<div align="center">
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff) 
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=fff) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff) 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)  
+
+**Frameworks & Tools**  
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=fff) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=fff) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=fff)  
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=fff)  
+
 </div>
 
 ---
 
-## ⚡ Fun Fact
+## 📊 GitHub Highlights  
 
-<!-- 
-  Example placeholder:
-  - You could create a GitHub Action that runs daily, fetches a random fact from an API, and updates this README.
-  - For a tutorial, check out: https://dev.to/ethomson/how-to-dynamically-update-your-github-readme-using-github-actions-3npm
--->
-
-<p align="center">
-  <!-- Replace this static text/image with your dynamic content -->
-  <img src="https://img.shields.io/badge/Did%20You%20Know%3F-More%20than%2050%25%20of%20the%20web%20is%20powered%20by%20JavaScript-blue" alt="Fun Fact"/>
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Al-RaoushBasel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Al-RaoushBasel&theme=tokyonight&hide_border=true" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Al-RaoushBasel&bg_color=0d1117&color=2a5298&line=2a5298&point=ffffff&area=true&hide_border=true" />
+</div>
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect  
 
-- **Email**: [basel.alraoush15@gmail.com](mailto:basel.alraoush15@gmail.com)
-- **LinkedIn**: [Basel Al-Raoush](https://www.linkedin.com/in/basel-al-raoush/)
-- **GitHub**: [Al-RaoushBasel](https://github.com/Al-RaoushBasel)
-- **Portfolio**: [Portfolio](https://al-raoushbasel.github.io/portfolio/)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-basal.alraoush15%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:basel.alraoush15@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Basel%20Al--Raoush-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/basel-al-raoush/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff4088?style=for-the-badge&logo=githubpages)](https://al-raoushbasel.github.io/portfolio/)  
+
+</div>
 
 ---
 
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&section=footer&color=gradient" height="100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1e3c72,100:2a5298"/>
 </p>
