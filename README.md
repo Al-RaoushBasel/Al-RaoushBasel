@@ -5,14 +5,14 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+BME+Budapest;Building+full-stack+apps+and+ML+pipelines;Java+%7C+React+%7C+Python+%7C+Spring+Boot;Currently+open+to+opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=650&lines=Software+Engineer+based+in+Budapest;Building+full-stack+apps+and+ML+pipelines;Java+%7C+React+%7C+Python+%7C+Spring+Boot;Open+to+junior+roles%2C+available+now" />
 </div>
 
 ---
 
 ## About Me
 
-Software Engineering student at **BME Budapest**, finishing my degree in July 2026. I build full-stack applications and ML pipelines, and I've worked on production codebases at **ABBYY** and **Bank of Jordan**. I care about writing code that actually ships — clean architecture, proper testing, and real users.
+Computer Engineering graduate from **BME Budapest** (July 2026). I build full-stack applications and ML pipelines. At **ABBYY** I wrote Python scripts that move extracted invoice data from FlexiCapture into ERP systems, and at **Bank of Jordan** I built Java/Spring Boot features for production microservices. I care about code that actually ships: clean architecture, proper testing, and real users.
 
 ---
 
@@ -41,11 +41,32 @@ Software Engineering student at **BME Budapest**, finishing my degree in July 20
 <td width="50%" valign="top">
   <div align="center">
 
+  <img src="https://img.icons8.com/fluency/96/barber-scissors.png" width="72" alt="Barber"/>
+
+  <h3>5 Stars Saloon</h3>
+
+  <p><b>Freelance booking app for a barber shop</b>, live on Google Play with 100+ downloads. Online payments, booking reminders and live status updates, with roles for customers, barbers and the owner, in English and Arabic.</p>
+  <p><b>Tech:</b> Flutter &middot; Firebase &middot; Riverpod &middot; FCM</p>
+
+  <p>
+    <a href="https://play.google.com/store/apps/details?id=com.fivestars.saloon" target="_blank">
+      <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play">
+    </a>
+  </p>
+
+  </div>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+  <div align="center">
+
   <img src="https://img.icons8.com/fluency/96/building.png" width="72" alt="Property"/>
 
-  <h3>Property Management System</h3>
+  <h3>TenantHub</h3>
 
-  <p><b>Full-stack app</b> with tenant portals, lease tracking, and automated payments. Redux for real-time data updates across admin dashboards.</p>
+  <p><b>Full-stack property management app</b> with tenant portals, lease tracking, and payments. Redux keeps admin dashboards in sync with live data.</p>
   <p><b>Tech:</b> React &middot; Node.js &middot; MongoDB &middot; Redux</p>
 
   <p>
@@ -56,9 +77,6 @@ Software Engineering student at **BME Budapest**, finishing my degree in July 20
 
   </div>
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
   <div align="center">
 
@@ -72,24 +90,6 @@ Software Engineering student at **BME Budapest**, finishing my degree in July 20
   <p>
     <a href="https://github.com/Al-RaoushBasel/online-signature-verification-" target="_blank">
       <img src="https://img.shields.io/badge/Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
-    </a>
-  </p>
-
-  </div>
-</td>
-<td width="50%" valign="top">
-  <div align="center">
-
-  <img src="https://img.icons8.com/fluency/96/barber-scissors.png" width="72" alt="Barber"/>
-
-  <h3>Barber Booking App</h3>
-
-  <p><b>Freelance mobile app</b> with role-based access for 3 user types. Real-time sync, push notifications, and booking management for a live client.</p>
-  <p><b>Tech:</b> Flutter &middot; Firebase &middot; Riverpod &middot; FCM</p>
-
-  <p>
-    <a href="https://github.com/Al-RaoushBasel" target="_blank">
-      <img src="https://img.shields.io/badge/Private%20Repo-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Private">
     </a>
   </p>
 
@@ -119,7 +119,13 @@ Software Engineering student at **BME Budapest**, finishing my degree in July 20
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
+
+**AI & ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=fff)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=fff)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff)
 
 **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
